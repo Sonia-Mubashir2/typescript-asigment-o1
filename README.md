@@ -1,0 +1,2 @@
+"# typescript-asigment-o1" 
+
